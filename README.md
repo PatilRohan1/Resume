@@ -1,6 +1,5 @@
 # Resume
 Overleaf Resume Code 
-
 %-------------------------
 % Resume in Latex
 % Author : Jake Gutierrez
@@ -128,17 +127,15 @@ Overleaf Resume Code
 \section{Education}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {Bachelor of Science (B.S.) - Computer Science}{Karad, Maharashtra}
-      {Bachelor of Science in Computer Science, S.G.M. College(Shivaji University)}{Jun 2019 - Apr 2023}
+      {Bachelor of Science, (B.S.) - Computer Science}{Karad, Maharashtra}
+      {S.G.M. College, (Shivaji University)}{Jun-2019 - Apr-2023}
       \resumeItemListStart
-        \resumeItem{\textbf{Final year project:} Hide me know(Steganography, cyber security).}
-        \resumeItem {Build a web-app using Flask, HTML, CSS, JS, Bootstrap, and MySQL.}
-        \resumeItem{Implemented steganographic techniques to conceal data within images,videos and
-    text.}
+        \resumeItem {Crafted a user-friendly web app with a \textbf{25\%} increase in user engagement, leveraging HTML, CSS, JS, Bootstrap, Python, and Flask}
+        \resumeItem{led a college event and taught classmates about \textbf{cybersecurity}, demonstrating organisational \& leadership skills.}
       \resumeItemListEnd
     \resumeSubheading
-      {Higher Secondary Certificate(HSC) - Computer Science}{Karad, Maharashtra}
-      {HSC, S.G.M. College(Shivaji University)}{Jul 2017 - Feb 2019}
+      {Higher Secondary Certificate, (HSC) - Computer Science}{Karad, Maharashtra}
+      {S.G.M. College, (HSC, Pune)}{Jul-2017 - Feb-2019}
        \resumeItemListStart
         \resumeItem{Founded and led a club named 'SGMCK' focused on demonstrating passion and Students Problem.}
         \resumeItem{Relevant Coursework: C, C++, HTML, Database Management System, Operating System, Computer Network.}
@@ -147,29 +144,29 @@ Overleaf Resume Code
 
 
 %-----------EXPERIENCE-----------
-\section{Work Experience}
+\section{Experience}
   \resumeSubHeadingListStart
   \resumeSubheading
-      {Machine Learning intern}{Dec 2023 - Present}
-      {Codsoft}{Remote}
+      {Machine Learning intern}{Dec-2023 - Present}
+      {Codsoft}{REMOTE}
       \resumeItemListStart
-       \resumeItem{Applying ML algorithms, statistical methods for predictive models, extracting insights
+       \resumeItem{Applying \textbf{ML algorithms}, statistical methods for predictive models, extracting insights
 from diverse datasets for informed decision-making.}
         \resumeItem{Working on projects like Movie Genre Classification, Credit Card Fraud Detection}
          \resumeItem{Creating a Machine Learning model using Naive Bayes, Logistic Regression,Decision trees, Random Forest.}
     \resumeItemListEnd
     \resumeSubheading
-      {Data Science intern}{Dec 2023 -  Dec -2023}
-      {Bharat intern}{Remote}
+      {Data Science intern}{Dec-2023 -  Dec-2023}
+      {Bharat intern}{REMOTE}
       \resumeItemListStart
-        \resumeItem{Implemented advanced NLP techniques, elevating SMS classifier accuracy.}
+        \resumeItem{Implemented advanced \textbf{NLP techniques}, elevating SMS classifier accuracy.}
         \resumeItem{Refined Computer Vision models for enhanced image recognition capabilities.}
     \resumeItemListEnd
     \resumeSubheading
-      {Data Science intern}{July 2023 - Present}
-      {Learnbay}{Remote}
+      {Data Science intern}{July-2023 - Present}
+      {Learnbay}{REMOTE}
       \resumeItemListStart
-        \resumeItem{Leveraged Python and SQL to analyze and extract insights from large datasets}
+        \resumeItem{Leveraged \textbf{Python \& SQL} to analyze and extract insights from large datasets}
         \resumeItem{Applied statistical methods and machine learning algorithms to solve real-world
 business problems}
         \resumeItem {Enhanced data quality and cleaning procedures, ensuring accuracy in analytical
@@ -187,7 +184,7 @@ models.}
 \resumeItemListStart
             \resumeItem{\textbf{Programming Languages}{: Python, SQL, C/C++, HTML}}
             \resumeItem{\textbf{Data Science and Miscellaneous Technologies}{: Data Science Pipeline(collection, cleansing, visualization, modeling, interpretation), Statistics, Hypothesis Testing.}}
-            \resumeItem{\textbf{Exra Skills} :Machine Learning , Exploratory Data Analysis(EDA), CSS, Bootstrap, Flask, Problem Solving and Critical Thinking, Debugging and Troubleshoot, Team collaboration, Product Marketing,Technical documentation, Penetration testing}
+            \resumeItem{\textbf{Extra Skills} :Machine Learning , Exploratory Data Analysis-EDA, Tensorflow, Scikit-learn, CSS, Bootstrap, Flask, Debugging and Troubleshoot, Team collaboration, Product Marketing, Technical documentation, Penetration testing}
 \resumeItemListEnd
 
 
@@ -196,9 +193,11 @@ models.}
     \resumeSubHeadingListStart
       \resumeProjectHeading
           {\textbf{SMS Spam classifier}}
-          {{ $|$ \emph{Multinomial Naive Bayes}}}
+          {{ $:$ \emph{Multinomial Naive Bayes}}}
           \resumeItemListStart
-            \resumeItem {Used MNB Algorithm for SMS classifier i got     \textbf{93\% Accuracy}, and \textbf{88\% Precesion }, i also got good score in Recall & F1-score}
+            \resumeItem {Used MNB Algorithm for SMS classifier, got     \textbf{93\% Accuracy}, and \textbf{88\% Precesion }, also got good score in Recall \& F1-score}
+            \resumeItem{Reduced customer service costs by \textbf{10\%} with highly accurate (\textbf{91/\%}
+            )SMS spam filtering using MNB.}
             \resumeItem{Worked on \textbf{Data Preprocessing, Feature Extraction, Model Training, Model Evalution} and \textbf{Deployment}}
           \resumeItemListEnd
     \resumeSubHeadingListEnd
@@ -207,14 +206,14 @@ models.}
 \section{CERTIFICATES}
 \resumeSubHeadingListStart
   \resumeSubheading
-    {Python For Data Science}{Learnbay}{}{Nov - 2023}
+    {Python For Data Science}{Learnbay}{}{Jul-2023 - Nov-2023}
     \resumeItemListStart
       \resumeItem{Learnbay - 252jk5ff}
     \resumeItemListEnd
   \resumeSubheading
-    {Cyber Security Course}{Drop.Org}{}{Jan - 2023}
+    {Cyber Security Course}{Drop.Org}{}{Aug-2023 - Jan-2023}
     \resumeItemListStart
-      \resumeItem{Development & Research Organization Planning(DROP.ORG.IN) - DCSC-RPB0922.}
+      \resumeItem{Development \& Research Organization Planning(DROP.ORG.IN) - DCSC-RPB0922.}
     \resumeItemListEnd
   % Add more certifications as needed, following the same structure
 \resumeSubHeadingListEnd
